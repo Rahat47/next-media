@@ -158,8 +158,7 @@ button.btn-google {
     color: var(--color-text);
 }
 
-.btn-google img {
-    width: 30px;
+.btn-google svg {
     margin-right: 10px;
 }
 
